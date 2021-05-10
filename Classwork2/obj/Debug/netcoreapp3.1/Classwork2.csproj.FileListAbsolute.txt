@@ -1,0 +1,17 @@
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.exe
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.deps.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.runtimeconfig.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.runtimeconfig.dev.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.dll
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\bin\Debug\netcoreapp3.1\Classwork2.pdb
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.Form1.resources
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.AssemblyInfo.cs
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.dll
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.pdb
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.genruntimeconfig.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.AddForm.resources
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\Classwork2\obj\Debug\netcoreapp3.1\Classwork2.EditForm.resources

@@ -1,0 +1,16 @@
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.exe
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.deps.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.runtimeconfig.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.runtimeconfig.dev.json
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.dll
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\bin\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.pdb
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.Form1.resources
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.Properties.Resources.resources
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.AssemblyInfo.cs
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.dll
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.pdb
+C:\Users\dev\source\repos\WinFormsLesson9_DragDrop\WinFormsLesson9_DragDrop\obj\Debug\netcoreapp3.1\WinFormsLesson9_DragDrop.genruntimeconfig.cache
