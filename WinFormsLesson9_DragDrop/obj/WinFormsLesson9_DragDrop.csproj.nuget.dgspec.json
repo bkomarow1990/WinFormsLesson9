@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj": {}
+    "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj",
         "projectName": "WinFormsLesson9_DragDrop",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\WinFormsLesson9_DragDrop\\WinFormsLesson9_DragDrop.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\WinFormsLesson9_DragDrop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

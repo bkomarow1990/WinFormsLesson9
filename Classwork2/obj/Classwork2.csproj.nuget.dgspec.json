@@ -1,35 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\Classwork2.csproj": {}
+    "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\Classwork2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\Classwork2.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\Classwork2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\Classwork2.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\Classwork2.csproj",
         "projectName": "Classwork2",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\Classwork2.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\Classwork2.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
             "projectReferences": {}
           }
         },
@@ -40,8 +37,14 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

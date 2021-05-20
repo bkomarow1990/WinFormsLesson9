@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1Ox4HUwBabBUXlSOPElMs5Au7ALF7V3ub7nECJPDn2PmTJvBvA9mMwOSLh88NPnGWl/xeZg5WCQn4+bLJE5Lvw==",
+  "dgSpecHash": "6wkCIrGtVrJ+J7QnInmvEeyjLuHvvRYnSgCITBrr8+5IPzipZJNT2U39CWBXvquRMNfpkJog9WIRUVRZzIFz9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\source\\repos\\WinFormsLesson9_DragDrop\\Classwork2\\Classwork2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\WinFormsLesson9\\Classwork2\\Classwork2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -54,10 +54,12 @@ namespace Classwork2
             this.addBtn = new System.Windows.Forms.Button();
             this.editBtn = new System.Windows.Forms.Button();
             this.deleteBtn = new System.Windows.Forms.Button();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.Context = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.viewMode = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
-            this.contextMenuStrip1.SuspendLayout();
+            this.viewModeitem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tableItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mozaicItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.Context.SuspendLayout();
             this.SuspendLayout();
             // 
             // listView1
@@ -85,9 +87,10 @@ namespace Classwork2
             listViewItem2,
             listViewItem3});
             this.listView1.LargeImageList = this.imageListLarge;
-            this.listView1.Location = new System.Drawing.Point(12, 28);
+            this.listView1.Location = new System.Drawing.Point(14, 37);
+            this.listView1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(404, 339);
+            this.listView1.Size = new System.Drawing.Size(461, 451);
             this.listView1.SmallImageList = this.imageListSmall;
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
@@ -132,9 +135,10 @@ namespace Classwork2
             // 
             // addBtn
             // 
-            this.addBtn.Location = new System.Drawing.Point(435, 315);
+            this.addBtn.Location = new System.Drawing.Point(497, 420);
+            this.addBtn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.addBtn.Name = "addBtn";
-            this.addBtn.Size = new System.Drawing.Size(161, 52);
+            this.addBtn.Size = new System.Drawing.Size(184, 69);
             this.addBtn.TabIndex = 1;
             this.addBtn.Text = "ADD";
             this.addBtn.UseVisualStyleBackColor = true;
@@ -142,9 +146,10 @@ namespace Classwork2
             // 
             // editBtn
             // 
-            this.editBtn.Location = new System.Drawing.Point(435, 257);
+            this.editBtn.Location = new System.Drawing.Point(497, 343);
+            this.editBtn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.editBtn.Name = "editBtn";
-            this.editBtn.Size = new System.Drawing.Size(161, 52);
+            this.editBtn.Size = new System.Drawing.Size(184, 69);
             this.editBtn.TabIndex = 2;
             this.editBtn.Text = "Edit";
             this.editBtn.UseVisualStyleBackColor = true;
@@ -152,52 +157,71 @@ namespace Classwork2
             // 
             // deleteBtn
             // 
-            this.deleteBtn.Location = new System.Drawing.Point(12, 373);
+            this.deleteBtn.Location = new System.Drawing.Point(14, 497);
+            this.deleteBtn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.deleteBtn.Name = "deleteBtn";
-            this.deleteBtn.Size = new System.Drawing.Size(239, 52);
+            this.deleteBtn.Size = new System.Drawing.Size(273, 69);
             this.deleteBtn.TabIndex = 3;
             this.deleteBtn.Text = "DeleteSelected";
             this.deleteBtn.UseVisualStyleBackColor = true;
             this.deleteBtn.Click += new System.EventHandler(this.deleteBtn_Click);
             // 
-            // contextMenuStrip1
+            // Context
             // 
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.Context.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.Context.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.viewMode});
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(100, 26);
-            this.contextMenuStrip1.Text = "COntext";
-            this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
+            this.Context.Name = "contextMenuStrip1";
+            this.Context.Size = new System.Drawing.Size(111, 28);
+            this.Context.Text = "COntext";
+            this.Context.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
             // viewMode
             // 
             this.viewMode.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripComboBox1});
+            this.viewModeitem});
             this.viewMode.Name = "viewMode";
-            this.viewMode.Size = new System.Drawing.Size(99, 22);
+            this.viewMode.Size = new System.Drawing.Size(110, 24);
             this.viewMode.Text = "View";
             // 
-            // toolStripComboBox1
+            // viewModeitem
             // 
-            this.toolStripComboBox1.Items.AddRange(new object[] {
-            "Table",
-            "Mozaic"});
-            this.toolStripComboBox1.Name = "toolStripComboBox1";
-            this.toolStripComboBox1.Size = new System.Drawing.Size(121, 23);
+            this.viewModeitem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tableItem,
+            this.mozaicItem});
+            this.viewModeitem.Name = "viewModeitem";
+            this.viewModeitem.RightToLeftAutoMirrorImage = true;
+            this.viewModeitem.Size = new System.Drawing.Size(163, 26);
+            this.viewModeitem.Text = "ViewMode";
+            // 
+            // tableItem
+            // 
+            this.tableItem.Name = "tableItem";
+            this.tableItem.Size = new System.Drawing.Size(140, 26);
+            this.tableItem.Text = "Table";
+            // 
+            // mozaicItem
+            // 
+            this.mozaicItem.Name = "mozaicItem";
+            this.mozaicItem.Size = new System.Drawing.Size(140, 26);
+            this.mozaicItem.Text = "Mozaic";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1015, 450);
+            this.ClientSize = new System.Drawing.Size(1160, 600);
+            this.ContextMenuStrip = this.Context;
             this.Controls.Add(this.deleteBtn);
             this.Controls.Add(this.editBtn);
             this.Controls.Add(this.addBtn);
             this.Controls.Add(this.listView1);
+            this.DoubleBuffered = true;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.contextMenuStrip1.ResumeLayout(false);
+            this.Context.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -212,9 +236,12 @@ namespace Classwork2
         protected internal System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Button editBtn;
         private System.Windows.Forms.Button deleteBtn;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ContextMenuStrip Context;
         private System.Windows.Forms.ToolStripMenuItem viewMode;
-        private System.Windows.Forms.ToolStripComboBox toolStripComboBox1;
+        private System.Windows.Forms.ToolStripMenuItem viewModeitem;
+        private System.Windows.Forms.ToolStripMenuItem tableItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem mozaicItem;
     }
 }
 
